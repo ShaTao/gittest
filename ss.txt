@@ -3,3 +3,5 @@ this is ss two line word.
 
 
 switched to a new branch 'dev'
+
+change master branch ss.txt
